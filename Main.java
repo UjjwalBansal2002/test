@@ -34,7 +34,7 @@ class Base {
 
 
 class Derived extends Base {
-    private int derivedValue;
+    
 
     // Parameterized constructor
     public Derived(int baseValue, int derivedValue) {
