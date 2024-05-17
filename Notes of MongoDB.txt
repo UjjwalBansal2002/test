@@ -1,0 +1,38 @@
+Data Storage:
+	It is used to store the data or info of users, products etc.
+		ex. Database
+------------------------------------------------------------------------------------------
+Types of Database - SQL | NoSQL
+	
+	SQL - Data stored in a structured manner that is mainly in the form of tables
+	   NOTE- Actually the data is not stored in the form of table its just to show us the 		data in the form of tables so that we can easily read that data or info
+	
+	NoSQL - it stores the data in the form of objects or in JSON format
+		ex- MongoDB (we are learning write now)
+------------------------------------------------------------------------------------------
+Why MongoDB
+	To store the data of user or any thing so that we can see it for future use or  	manipulate it
+
+------------------------------------------------------------------------------------------
+
+Terminologies
+
+	Database(google) -> Collections(users) -> Document(particular user data)
+
+	Code			Database
+	---------------------------------------------------------------
+	mongoose.connect ->	database Create
+	model create	 ->	collections
+	CREATE code	 ->	document
+
+
+mongoose is used to communicate between node server and mongodb server
+
+------------------------------------------------------------------------------------------
+
+Authentication And Authorization
+	 
+
+
+
+

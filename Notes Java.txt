@@ -1,0 +1,20 @@
+# Data Types in Java
+
+        1. Primitive Data Types
+               Types | Size | Default Value
+            1. byte-> 1 bytes -> 0
+            2. int-> 4 bytes -> o
+            3. float-> 4 bytes -> 0.0f
+            4. long-> 8 bytes -> 0
+            5. char-> 2 bytes -> 0
+            6. double-> 8 bytes -> 0.0d
+            7. bool-> depends on jbm(machine)-> false
+            8. short-> 2 bytes -> 0
+
+        2. Non Primitive Data Types
+
+
+
+
+
+# 

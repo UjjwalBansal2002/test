@@ -1,0 +1,17 @@
+SQL Aggregate function is use to perform aggregate the calculation on multiple rows of a single coloumn of a table. It refers the single value it is also used to summarize the
+data
+
+
+count:- it is used to  count the no. of row in a DB table.It can work on numeric or non numeric datatypes count consider the duplicate and null value.
+			syntax:- count()
+            
+sum: It is used calculate the sum of selected coloumn it works only numeric datatypes
+
+
+Avg:- the avg value numeric type the avg function           the 
+
+
+max   max function is used to find the max value of the certain colomn this function is used to  determine the largest value in the selected colomn
+
+
+min:  min function is used to find the min value of the certain colomn this function is used to determine the largest value in the selected colomn
